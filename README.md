@@ -1,7 +1,5 @@
 # Business AI Research Group (BARG) - README
 
-![BARG Logo](icon.png)
-
 Welcome to the Business AI Research Group (BARG) GitHub repository! BARG is a dedicated and interdisciplinary team focused on addressing the myriad challenges in the rapidly evolving field of artificial intelligence. Led by Associate Professor Nik Thompson, Adjunct Research Fellow Dengya Zhu (Simon), and Dr. Michael Borck, our group brings together diverse expertise to facilitate groundbreaking research in AI.
 
 ## About BARG
