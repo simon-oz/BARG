@@ -27,6 +27,11 @@ We strongly believe in the power of collaboration and recognize its importance i
 
 If you're interested in joining our research group, please reach out to us at [email protected] with your background and research interests.
 
+## Weekly AI news
+
+Following this [link](https://github.com/simon-oz/AI-News/blob/main/README.md) to our weekly AI news. We focus on Gen AI (Generative AI), LLMs (Large Language Models), Multi-modal models, Deep Learning and related areas.
+
+
 ## Repository Contents
 
 This GitHub repository serves as a central hub for BARG's research projects, codebase, and resources. Here's an overview of the repository's contents:
