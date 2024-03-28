@@ -45,3 +45,5 @@ To learn more about BARG and our ongoing research, feel free to contact us:
 - Dr. Michael Borck: [email protected]
 
 We are excited about the possibilities that lie ahead in AI research, and we look forward to collaborating with you to drive innovation and create a positive impact on society. Together, we can shape
+
+Our selected weekly AI News is [here](https://github.com/simon-oz/AI-News)
